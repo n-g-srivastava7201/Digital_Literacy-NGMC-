@@ -93,6 +93,8 @@ This repository contains all tasks completed as part of the **Digital Literacy P
 https://docs.google.com/forms/d/e/1FAIpQLSc-_EJgX00gKl6GMK9Uh5Wh0TGicIEFhsLzvSPg2q_UkSzDQQ/viewform?usp=sharing&ouid=118120702374647104524
 
 ---
+## Response Sheet
+https://docs.google.com/spreadsheets/d/1xaxNieazaGeh5TmZr-Bw7MgN8oKzEIZZqx0vmwzNQy8/edit?usp=sharing
 
 ## Key Learnings
 - Importance of digital literacy in academics and daily life  
